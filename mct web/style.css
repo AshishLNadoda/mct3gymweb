@@ -1,0 +1,362 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.maindiv{
+  height: auto;
+  width: auto;
+}
+
+.contain{
+  height: 3rem;
+  width: 98%;
+  font-size: 2rem;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(236, 236, 250); color:rgba(14, 14, 14, 0.6);
+  padding-left: 15px;
+  padding-top: 0px;
+  margin: auto;
+  
+}
+.quote{
+  height: 15rem;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content:center;
+}
+.q1{
+  opacity: 30%;
+  border-radius: 40%;
+  height:15rem ;
+  width: 25%;
+  background-color: rgb(248, 194, 108);
+}
+.q2{
+  height:15rem ;
+  width: 50%;
+  display: flex;
+  justify-content:center;
+  background-color: rgb(255, 255, 255);
+}
+.q3{
+  height:15rem ;
+  width: 25%;
+  background-color: rgb(250, 210, 101);
+}
+
+
+  
+  
+
+.one{
+  height:8rem;
+  width: 33.33%;
+  float: right;
+  background-color: rgb(255, 251, 255);
+
+
+}
+.two{
+  height:8rem;
+  width: 33.33%;
+  background-color: rgb(255, 255, 255);
+float: left;
+}
+.three{
+  height:35rem;
+  width: 33.33%;
+  justify-content:right ;
+  background-color:yellow;
+  margin: auto;
+
+}
+.centerarrowpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.onepic{
+  height: 40rem;
+  width: 33.33%;
+ float: right;
+ 
+
+
+}
+.twopic{
+  height:40rem;
+  width: 33.33%;
+  float: left;
+
+
+}
+.threepic{
+  height:40rem;
+  width: 33.33%;
+ margin: auto;
+ 
+  
+
+}
+.centerarrowpic1
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8%;
+  border-radius: 60%;
+    
+}
+.pagetwo{
+  height: 70rem;
+  width: 100%;
+  background-color: rgb(253, 253, 253);
+
+}
+.header{
+  height: 20rem;
+  width: 70%;
+  background-color: rgb(255, 255, 255);
+}
+.yb{
+  height: 45rem;
+  width: 30%;
+  float: right;
+  background-color: yellow;
+  
+}
+.girl{
+  right: 50px;
+  position: absolute;
+}
+.parapage2{
+  height: 70%;
+  width:45%;
+  background-color: rgb(255, 255, 255);
+}
+.button{
+  height: 10%;
+  width:30%;
+  background-color: black;
+  color: aliceblue;
+  font-size: 25px;
+}
+.pagethree{
+  height: 70rem;
+  width: 100%;
+  background-color: rgb(247, 247, 247);
+
+
+}
+.header3{
+  height: 20rem;
+  width: 100%;
+  background-color: rgb(255, 254, 254);
+
+}.para3{
+  height: 45rem;
+  width: 40%;
+  float: right;
+  background-color: rgb(255, 255, 255);
+
+}
+.yb2{
+  height: 45rem;
+  width: 50%;
+  background-color: rgb(207, 207, 21);
+
+}
+.dr3{
+  left: 100px;
+  position: absolute;
+}
+.para3{
+  font-size: 15px;
+  color: black;
+   
+    
+}
+<!------------------------------------------->
+.page{
+  height: 70rem;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.header4{
+  height: 10%;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.yb4{
+  height: 50rem;
+  width: 25%;
+  float: right;
+  background-color: orange;
+}
+.para4{
+  height: 60rem;
+  width: 50%;
+  background-color: rgb(255, 255, 255);
+}
+.dr4{
+  right: 50px;
+  margin-top: 5%;
+
+  position: absolute;
+}
+.part1{
+ left: 25px;
+  height: 15%;
+  width: 80%;
+  border: 3px solid rgb(255, 255, 255);
+  padding: 10px;
+  background-color: aliceblue;
+}
+.couch{
+  height: 100%;
+  width: 20%;
+  background-color: rgb(255, 255, 255);
+}
+.cpara{
+  height: 100%;
+  width: 80%;
+  float: right;
+  background-color: rgb(238, 238, 238);
+}
+.part2{
+ 
+  height: 15%;
+  width: 80%;
+  border: 3px solid rgb(255, 255, 255);
+  padding: 10px;
+  background-color: aliceblue;
+}
+.part3{
+ 
+  height: 15%;
+  width: 80%;
+  border: 3px solid rgb(255, 255, 255);
+  padding: 10px;
+  background-color: aliceblue;
+}
+.pagefive{
+  height: 60rem;
+  width: 100%;
+  background-color: rgb(134, 127, 127);
+}
+.headfive{
+  height: 20%;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.sixb{
+  height: 25%;
+  width: 15%;
+  position: absolute;
+  background-color: white;
+  right: 90px;
+  
+
+}
+.sixa{
+  height: 25%;
+  width: 15%;
+  position: absolute;
+  background-color: white;
+  right: 350px;
+
+}
+.sixc{
+  height:25%;
+  width: 15%;
+  position: absolute;
+  background-color: white;
+  right: 600px;
+
+}
+.six1{
+  height: 25%;
+  width: 15%;
+  position: absolute;
+  background-color: white;
+  right: 600px;
+  margin-top: 14%;
+  border-bottom: 5vh;
+
+}
+.six2{
+  height: 25%;
+  width: 15%;
+  position: absolute;
+  background-color: white;
+  right: 350px;
+  margin-top: 14%;
+
+}
+.six3{
+  height: 25%;
+  width: 15%;
+  position: absolute;
+  background-color: white;
+  right: 90px;
+  margin-top: 14%;
+
+}
+.yb5{
+  height: 65%;
+  width: 60%;
+ background-color: yellow;
+}
+.yb55{
+  
+  height: 70%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+.pagesix{
+  height: 120rem;
+  width: 100%;
+
+}
+.a1{
+  height: 60rem;
+  width: 50%;
+  float: right;
+  
+}
+.a2{
+  height: 60rem;
+  width: 50%;
+  
+}
+.a3{
+  height: 60rem;
+  width: 50%;
+  float: right;
+  
+}
+.a4{
+  height: 60rem;
+  width: 50%;
+ 
+}
+.pageseven{
+  height: 80rem;
+  width: 100%;
+  background-color: rgb(248, 248, 248);
+
+}
+.sevenhead{
+  height: 15rem;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+
+
